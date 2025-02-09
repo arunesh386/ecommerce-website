@@ -10,10 +10,5 @@ This is a fully responsive home page website built using HTML and CSS. The desig
 HTML5
 CSS3 (Including Flexbox & Grid)
 Media Queries for Responsiveness
-📷 Preview
-![Uploading Screenshot 2025-02-09 115119.png…]()
-
-
-
 🔗 Live Demo
 (https://exquisite-kringle-7a7d89.netlify.app/index/)
